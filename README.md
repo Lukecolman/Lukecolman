@@ -1,7 +1,20 @@
 # Hi, I'm Luke <img src="https://raw.githubusercontent.com/Lukecolman/Lukecolman/main/waveHand.gif" width="30px" height="30px" />
 
+**`Your Friendly Neighborhood Front-end Hero`**
 
-## 💻 Tech Stack:
+<!-- Social badges section -->
+  <p align="left">
+          <a href="https://www.linkedin.com/in/lukecolman/">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lukecolman?color=#0A66C2&style=for-the-badge&labelColor=#0A66C2&logo=linkedinfullicon"/></a>
+      <a href="https://github.com/Lukecolman?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Lukecolman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Lukecolman?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lukecolman?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
+
+## 💻 Tech & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
