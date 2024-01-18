@@ -4,8 +4,7 @@
 
 <!-- Social badges section -->
   <p align="left">
-          <a href="https://www.linkedin.com/in/lukecolman/">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lukecolman?color=#0A66C2&style=for-the-badge&labelColor=#0A66C2&logo=linkedinfullicon"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lukecolman)
       <a href="https://github.com/Lukecolman?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Lukecolman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Lukecolman?tab=repositories&sort=stargazers">
